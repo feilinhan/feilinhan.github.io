@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://feilinhan.github.io" 
+title: Feilin Han
 paginate: 20
 theme: PaperMod
 
@@ -11,25 +11,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Projects
+          url: projects/
+          weight: 3 
+        - name: Teaching
           url: courses/
-          weight: 3
-        - name: Data
+          weight: 4
+        - name: News
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 5 
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a Lecturer (~Assistant Professor) at Beijing Film Academy, China. My research focuses on Digital Film and Multimedia Technology."
+    author: Feilin Han
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["projects","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,49 +50,54 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Dr. Feilin (Fiona) Han
+          subtitle: "Hi! This is Fiona! I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. 
+          Currently, I am a visiting scholar at the school of Art, Design and Media, Nanyang Technological University, Singapore, 
+          co-working with [**Prof. Benjamin Seide**](http://www.ataribaby.de/).
+          I am also a Master's Supervisor in **Digital Film Technology** and **Generative AI in Film Prodcution** at BFA. 
+          
+          <br><br>
+          My research focuses on **AI**, **Computer Vision**, **Virtual Reality** and **Human-AI Interaction** in Digital Film Production.
+          I am also interested in Cinematic Virtual Reality (Virtual Cinematography, VR filmmaking, interactive storytelling), 
+          VFX in Filmmaking (Motion Capture, 3D Human Digitalization, Digital Asset Production and Management), 
+          and AI-Generated Content (AIGC) in Digital Art. 
+          I am a **Researcher**, **Technical Director (TD)**, and **Designer**, exploring immersion, interaction, and perception.
+
+          <br><br>
+          In 2024, I was selected into the Young Elite Scientist Sponsorship Program by BAST, 
+          working under the supervision of [**Prof. Wenwu Zhu**](https://www.cs.tsinghua.edu.cn/csen/info/1306/4336.htm)In 2019, I obtained my **Ph.D.** in Computer Science and Technology from the School of Computer Science and Technology, 
+          Zhejiang University, majoring in Digital Art and Design, supervised by [**Prof. Weidong Geng**](https://person.zju.edu.cn/en/capggeng#0). 
+          With an **interdisplinary background**, I studies in the School of Theater, Film, and Television, UCLA, in 2011, 
+          worked as a research assistant in the Department of Computer Science at National Tsing Hua University, in 2013,
+          and was a Marie Curie Research Scholar in the National Centre for Computer Animation, UK, in 2016."
+
+          imageUrl: "fiona.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Fiona Han
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Courses
+            - name: Projects
+              url: projects/
+            - name: Teaching
               url: courses/
-            - name: Data
+            - name: News
               url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: hanfeilin at bfa dot edu dot cn
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
+        - name: Linkedin
+          url: https://sg.linkedin.com/in/fionafffff
+        - name: Weibo
+          url: https://weibo.com/linlin9253
+        
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Fiona Han"
       icon: favicon.ico
       iconHeight: 18
 
