@@ -96,13 +96,11 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: hanfeilin at bfa dot edu dot cn
+          url: hanfeilin@bfa.edu.cn
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
         - name: Linkedin
           url: https://sg.linkedin.com/in/fionafffff
-        - name: Weibo
-          url: https://weibo.com/linlin9253
         
 
     assets:
