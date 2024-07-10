@@ -17,12 +17,12 @@ menu:
         - name: Publications
           url: paperlist
           weight: 3
-        - name: Projects
-          url: project
-          weight: 4 
-        - name: Teaching
-          url: courses
-          weight: 5
+        # - name: Projects
+        #   url: project
+        #   weight: 4 
+        # - name: Teaching
+        #   url: courses
+        #   weight: 5
         # - name: News
         #   url: news/
         #   weight: 6
@@ -89,23 +89,23 @@ params:
               url: profile
             - name: Publications
               url: paperlist
-            - name: Projects
-              url: project
-            - name: Teaching
-              url: courses
+            # - name: Projects
+            #   url: project
+            # - name: Teaching
+            #   url: courses
             # - name: News
             #   url: news/
             
 
-    # socialIcons:
-    #     - name: CV
-    #       url: cv.pdf
-    #     - name: Email
-    #       url: hanfeilin@bfa.edu.cn
-    #     - name: Google Scholar
-    #       url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
-    #     - name: Linkedin
-    #       url: https://sg.linkedin.com/in/fionafffff
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: hanfeilin@bfa.edu.cn
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
+        - name: Linkedin
+          url: https://sg.linkedin.com/in/fionafffff
         
 
     assets:
