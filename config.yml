@@ -17,6 +17,9 @@ menu:
         - name: Publications
           url: paperlist
           weight: 3
+        - name: Test
+          url: Template
+          weight: 4
         # - name: Projects
         #   url: project
         #   weight: 4 
@@ -80,7 +83,7 @@ params:
           <br><br>
           I am a **Researcher**, **Technical Director**, and **Designer**, exploring **immersion** and **perception**."
 
-          imageUrl: "fiona.jpg"
+          imageUrl: "Fiona_2024.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Fiona Han
@@ -89,12 +92,15 @@ params:
               url: profile
             - name: Publications
               url: paperlist
+            - name: Test
+              url: Template
             # - name: Projects
             #   url: project
             # - name: Teaching
             #   url: courses
             # - name: News
             #   url: news/
+
             
 
     socialIcons:

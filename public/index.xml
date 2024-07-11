@@ -6,8 +6,24 @@
     <description>Recent content on Feilin Han</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>Undergraduate Courses Virtual Reality Technology
+3D Real-time Engine
+Graduate Courses Advanced Imagery Technology and Application</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/</guid>
+      <description>Overview aaa</description>
+    </item>
     <item>
       <title>Bio</title>
       <link>http://localhost:1313/profile/</link>
@@ -52,9 +68,9 @@ Feilin Han, Ying Zhong, Ke-Ao Zhao</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
@@ -66,9 +82,9 @@ Feilin Han, Ying Zhong, Ke-Ao Zhao</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/papers/book1/</link>
+      <link>http://localhost:1313/papers/book/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/book1/</guid>
+      <guid>http://localhost:1313/papers/book/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
   </channel>
