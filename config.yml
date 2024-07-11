@@ -15,11 +15,11 @@ menu:
           url: profile
           weight: 2
         - name: Publications
-          url: paperlist
+          url: papers
           weight: 3
-        - name: Test
-          url: Template
-          weight: 4
+        # - name: Test
+        #   url: Template
+        #   weight: 4
         # - name: Projects
         #   url: project
         #   weight: 4 
@@ -91,9 +91,9 @@ params:
             - name: Profile
               url: profile
             - name: Publications
-              url: paperlist
-            - name: Test
-              url: Template
+              url: papers
+            # - name: Test
+            #   url: Template
             # - name: Projects
             #   url: project
             # - name: Teaching

@@ -24,16 +24,16 @@
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/template/</link>
+      <link>http://localhost:1313/template/index_template/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/template/</guid>
+      <guid>http://localhost:1313/template/index_template/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/papers/book/</link>
+      <link>http://localhost:1313/template/book_template/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/book/</guid>
+      <guid>http://localhost:1313/template/book_template/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
   </channel>
