@@ -7,7 +7,7 @@ author: ["Feilin Han", "Zhaoxu Meng"]
 description: "This paper was accepted by 2022 IEEE International Conference on Virtual Reality and Visualization." 
 summary: "In film production, metadata plays an important role in original raw video indexing. Inspired by deep visual-semantic methods, we propose an automated image information extraction process to extend the diversity of metadata entities for massive large-scale raw video searching and retrieval." 
 cover:
-    image: "result_1.png"
+    image: "../projects/metadata_cover.png"
     alt: "A Metadata Generation System for Film Production"
     relative: false
 # editPost:
