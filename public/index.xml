@@ -18,18 +18,23 @@
 Graduate Courses Advanced Imagery Technology and Application</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/</guid>
-      <description>Overview aaa</description>
-    </item>
-    <item>
       <title>Bio</title>
       <link>http://localhost:1313/profile/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/profile/</guid>
       <description>Overview I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. Currently, I am a visiting scholar at the school of Art, Design and Media, Nanyang Technological University, Singapore. I am also a Master&amp;rsquo;s Supervisor in Digital Film Technology and Generative AI in Film Production at BFA. My research focuses on AI, Computer Vision, Virtual Reality and Human-AI Interaction in Digital Film Production.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/papers/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/</guid>
+      <description>List of Selected Papers SimUAVs-A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment
+Feilin Han, Leping Zhang, Xin Wang, Ke-Ao Zhao, Ying Zhong, Ziyi Su, Tongtong Feng, Wenwu Zhu$^∗$
+ACM Multimedia 2024 Technical Demos and Videos Track (Accepted)
+Project , Video The Correlation Analysis Between Cybersickness and Postural Behavior in Immersive VR Experience
+Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, Feilin Han$^∗$
+2024 IEEE International Conference on Multimedia and Expo (ICME)</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>

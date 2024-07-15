@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/tags/mediterranean-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unusual Uses For Olive Oil</title>
+      <link>http://localhost:1313/projects/semg_cybersickness/semg_cybersickness/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/semg_cybersickness/semg_cybersickness/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+    </item>
+    <item>
+      <title>Unusual Uses For Olive Oil</title>
       <link>http://localhost:1313/template/paper_template/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/template/paper_template/</guid>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>A Metadata Generation System for Film Production | Feilin Han</title>
+<meta name="keywords" content="Metadata, Semantic Annotation, Video Understanding, Film Production">
+<meta name="description" content="This paper was accepted by 2022 IEEE International Conference on Virtual Reality and Visualization.">
+<meta name="author" content="Feilin Han,&thinsp;Zhaoxu Meng">
+<link rel="canonical" href="http://localhost:1313/projects/metadata/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.261a8e817eb3ad13f20cc0c33e37969be4c5ba5ba6c4f33e79eee399fba8fb77.css" integrity="sha256-JhqOgX6zrRPyDMDDPjeWm&#43;TFulumxPM&#43;ee7jmfuo&#43;3c=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/projects/metadata/index.xml">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/metadata/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="A Metadata Generation System for Film Production" />
+<meta property="og:description" content="This paper was accepted by 2022 IEEE International Conference on Virtual Reality and Visualization." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:1313/projects/metadata/" />
+<meta property="og:image" content="http://localhost:1313/result_1.png" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/result_1.png" />
+<meta name="twitter:title" content="A Metadata Generation System for Film Production"/>
+<meta name="twitter:description" content="This paper was accepted by 2022 IEEE International Conference on Virtual Reality and Visualization."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "http://localhost:1313/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "A Metadata Generation System for Film Production",
+      "item": "http://localhost:1313/projects/metadata/"
+    }
+  ]
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="list" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Fiona Han">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Fiona Han</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/profile" title="Profile">
+                    <span>Profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main"> 
+<header class="page-header">
+  <h1>
+  </h1>
+</header>
+<div class="post-content"><h2 id="a-metadata-generation-system-with-semantic-understanding-for-video-retrieval-in-film-production">A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production</h2>
+<h5 id="feilin-han-zhaoxu-meng">Feilin Han$^∗$, Zhaoxu Meng</h5>
+<h4 id="department-of-film-and-tv-technology-beijing-film-academy">Department of Film and TV Technology, Beijing Film Academy</h4>
+<hr>
+<!-- <div style="text-align: justify;">
+
+</div> -->
+<h5 id="abstract">Abstract</h5>
+<div style="text-align: justify;">
+In film production, metadata plays an important role in original raw video indexing and classification within the industrial post-production software. Inspired by deep visual-semantic methods, we propose an automated image information extraction process to extend the diversity of metadata entities for massive large-scale raw video searching and retrieval. In this paper, we introduce the proposed system architecture and modules, integrating semantic annotation models and user-demand-oriented information fusion. We conducted experiments to validate the effectiveness of our system on Film Raw Video Semantic Annotation Dataset (Film-RVSAD) and Slate Board Template Dataset (SBTD), two benchmark datasets built for cinematography-related semantic annotation and slate detection. Experimental results show that the proposed system provides an effective strategy to improve the efficiency of metadata generation and transformation, which is necessary and convenient for collaborative work in the filmmaking process.
+</div>
+<br>
+<p><img loading="lazy" src="teaser.png" alt=""  />
+</p>
+<center>
+Figure 1. The framework of metadata generation system.
+</center>
+<br>
+<div style="text-align: justify;">
+In this work, we propose a metadata extraction system, which is embedded with semantic understanding and video content analysis, aiming for user-demand-oriented search and raw video retrieve. This system could format the metadata according to the user demand and specialized post-production software, and attach it to the basic information recorded by the camera. The metadata example and user interface of our metadata generation system is shown in Figure 2.
+</div>
+<p><img loading="lazy" src="software.png" alt=""  />
+</p>
+<center>
+Figure 2. Example of metadata and system user interface.
+</center>
+<br>
+<div style="text-align: justify;">
+For validating the proposed strategy, we conducted experiments to evaluate the efficiency of our system and the performance of generated metadata. The experimental configuration is an integration of Slate Detection, CameraMove Recognition, Actor Detection, and Scene and Object Recognition modules, with a graphical user interface. To quantitatively evaluate our system, we built a benchmark datasets, named Film Raw Video Semantic Annotation Dataset (Film-RVSAD), shown in Figure 3, for cinematography-related information extraction with metadata semantic labels. Figure 3 alsos gives experimental examples of slate detection, camera movement recognition, and shot scale recognition in our framework.
+</div>
+<p><img loading="lazy" src="semantic.png" alt=""  />
+</p>
+<center>
+Figure 3. Metadata labels and experimental results in Film-RVSAD.
+</center>
+<br>
+<div style="text-align: justify;">
+Our system fuses user-demand-oriented information into the final metadata information, where allows users to choose the labels they need and the file format that their post-production software could read. The user interface is shown as Figure~\ref{fig:ui}. After parsing the basic information from the original metadata, we will add up the extracted metadata labels or re-construct a new metadata file to extend the diversity of semantic descriptions. All the metadata information can be automatically loaded for classify and index corresponding videos in video management and retrieval.
+</div>
+<p><img loading="lazy" src="result_1.png" alt=""  />
+<img loading="lazy" src="result_2.png" alt=""  />
+</p>
+<center>
+Figure 4. Examples of region predictions and semantic annotations on Film-RVSAD.
+</center>
+<br>
+<div style="text-align: justify;">
+We introduced an application scenario of browsing the massive large-scale raw videos with the help of metadata. In this paper, we propose an automated method with semantic understanding for raw video search and retrieval. Our system utilizes deep visual-semantic models to extract cinematography-related image information, which can be integrated into metadata labels. We conducted experiments to validate the effectiveness of our system. We showed that the proposed system provides an applicable metadata extraction strategy, generating semantic annotations in terms of user demand, to improve the efficiency of video retrieval in film production.
+</div>
+<hr>
+<!-- 
+##### Citation
+
+Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+
+```BibTeX
+@article{UI13,
+author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
+year = {2013},
+title ={Unusual Uses For Olive Oil},
+journal = {Journal of Oleic Science},
+volume = {34},
+number = {1},
+pages = {449--489},
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+```
+
+ -->
+<h5 id="acknowledgment">ACKNOWLEDGMENT</h5>
+<p>This work was supported by Beijing Natural Science Foundation (No. 4214073) and the National Social Science Fundation Art Project (No. 20BC040). Special thanks to all the cast and crew from \textit{Nian Nian}, \textit{The Deep Blue}, \textit{Spring in the Hood}, \textit{MiLaZhiGe}, \textit{YueShi}, \textit{TianMingYiFuChouJi} for generously offering original raw videos to support our research.</p>
+<h5 id="related-material">Related material</h5>
+<ul>
+<li><a href="ICVRV2022-camera-ready.pdf">Paper</a>
+</li>
+</ul>
+<!-- + [Poster](Poster_2201_icme2024.pdf) -->
+<!-- + [Code and data](https://github.com/pmichaillat/u-star) -->
+<hr>
+
+</div>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">Feilin Han</a></span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+</body>
+</html>
