@@ -7,7 +7,7 @@ author: ["Feilin Han", "Leping Zhang", "Xin Wang", et al.]
 description: "This paper was accepted by ACM Multimedia 2024 Technical Demos and Videos Track." 
 summary: "SimUAVs is a telepresence simulation platform for UAV synthetic data generation. This system provides multiple agents and multi-modal sensors for manipulation, with dynamic real-world weather and environment conditions for emulation." 
 cover:
-    image: "teaser.png"
+    image: "simuavs_cover.png"
     alt: "SimUAVs-A UAV Telepresence Simulation Platform"
     relative: false
 # editPost:

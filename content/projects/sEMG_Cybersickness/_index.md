@@ -7,7 +7,7 @@ author: ["Ying Zhong", "Ke-Ao Zhao", "Leping Zhang", et al.]
 description: "This paper was accepted by 2024 IEEE International Conference on Multimedia and Expo." 
 summary: "Cybersickness detection is one of the primary tasks in Virtual Reality (VR) content production. We proposed a method that investigates the relationship between cybersickness and postural behavior by analyzing the surface electromyography (sEMG) signals and hand videos." 
 cover:
-    image: "process.png"
+    image: "semg_cover.png"
     alt: "Cybersickness detection based on sEMG"
     relative: false
 # editPost:
