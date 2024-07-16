@@ -20,12 +20,16 @@ menu:
         - name: Projects
           url: projects
           weight: 4 
+        - name: Creative Work
+          url: work
+          weight: 5 
         - name: Teaching
           url: teaching
-          weight: 5
+          weight: 6
         - name: People
           url: people
-          weight: 6
+          weight: 7
+        
 
 params:
     description: "I am a Lecturer (~Assistant Professor) at Beijing Film Academy, China. My research focuses on Digital Film and Multimedia Technology."
@@ -85,11 +89,13 @@ params:
               url: papers
             - name: Projects
               url: projects
+            - name: Creative Work
+              url: work
             - name: Teaching
               url: teaching
             - name: People
               url: people
-
+            
             
 
     socialIcons:
