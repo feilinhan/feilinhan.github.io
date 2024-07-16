@@ -1,7 +1,7 @@
 ---
-title: "Bio" 
-date: 2024-07-10
-lastmod: 2024-07-10
+title: "Han Feilin" 
+# date: 2024-07-10
+# lastmod: 2024-07-10
 
 # tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish"]
 # author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
@@ -14,18 +14,40 @@ lastmod: 2024-07-10
 # disableAnchoredHeadings: false
 
 ---
+Master's Supervisor in **Digital Film Technology** and **Generative AI in Film Production**. 
+<br>
+Address: No.4, Xitucheng Road, Haidian District, Beijing, China
+<br>
+Email: hanfeilin at bfa.edu.cn
+<br>
 
+
+### <font color=' BE77FF '> News!!! </font>
+
+
++ 2024/07/16 &emsp;  One paper was accepted in ACM MM 2024!<br>
++ 2024/07/12 &emsp;  One paper was accepted in ACM MM 2024 Demo Track!<br>
++ 2024/03/13 &emsp;  One paper was accepted in ICME 2024!<br>
++ 2024/02/01 &emsp;  I was selected into the Young Elite Scientist Sponsorship Program!<br>
++ 2023/12/05 &emsp;  One paper was accepted in CVM 2024!<br>
+
+
+---
 
 ## Overview
 
-I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. 
-Currently, I am a visiting scholar at the school of Art, Design and Media, Nanyang Technological University, Singapore. 
-I am also a Master's Supervisor in **Digital Film Technology** and **Generative AI in Film Production** at BFA. 
-<br><br>
 My research focuses on **AI**, **Computer Vision**, **Virtual Reality** and **Human-AI Interaction** in Digital Film Production.
 I am also interested in Cinematic Virtual Reality (VR Filmmaking, VR Storytelling), 
 VFX in Filmmaking (Motion Capture, Digital Double, Digital Asset Management), 
 and AI-Generated Content (AIGC) in Digital Art.
+<br><br>
+In 2024, I was selected into the Young Elite Scientist Sponsorship Program by BAST, under the supervision of [**Prof. Wenwu Zhu**](https://www.cs.tsinghua.edu.cn/csen/info/1306/4336.htm). 
+In 2019, I obtained my **Ph.D.** in Computer Science and Technology, majoring in Digital Art and Design, 
+from the School of Computer Science and Technology, Zhejiang University, supervised by [**Prof. Weidong Geng**](https://person.zju.edu.cn/en/capggeng#0). 
+<br><br>
+I am looking for **students** and **RA**, who are self-motivated and highly interested in film production, with a background in computer science, digital media, or related major.
+<br>Please contact me via email, with your CV and portfolio.
+
 
 ---
 
@@ -190,7 +212,6 @@ at Jinan University. Invited by Prof. Jingliang Peng
 ---
 
 
-
 ## Honers & Awards
 
 
@@ -209,3 +230,14 @@ at Jinan University. Invited by Prof. Jingliang Peng
 + Marie Curie International Incoming Fellowship, 2016
 
 + National Scholarship, 2012
+
+---
+
+
+## Languages
+
++ Chinese
+
++ English
+
++ Korean

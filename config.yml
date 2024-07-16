@@ -17,22 +17,19 @@ menu:
         - name: Publications
           url: papers
           weight: 3
-        # - name: Test
-        #   url: Template
-        #   weight: 4
         - name: Projects
           url: projects
           weight: 4 
-        # - name: Teaching
-        #   url: courses
-        #   weight: 5
-        # - name: News
-        #   url: news/
-        #   weight: 6
+        - name: Teaching
+          url: teaching
+          weight: 5
+        - name: People
+          url: people
+          weight: 6
 
 params:
     description: "I am a Lecturer (~Assistant Professor) at Beijing Film Academy, China. My research focuses on Digital Film and Multimedia Technology."
-    author: Feilin Han
+    # author: Feilin Han
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -56,7 +53,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dr. Feilin (Fiona) Han
+          title: Han Feilin (韩菲琳)
           subtitle: "Hi! I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. 
           Currently, I am a visiting scholar at the school of Art, Design and Media, Nanyang Technological University, Singapore, 
           co-working with [**Prof. Benjamin Seide**](http://www.ataribaby.de/).
@@ -67,12 +64,6 @@ params:
           I am also interested in Cinematic Virtual Reality (Cinematography in VR, VR Filmmaking, VR Storytelling), 
           VFX in Filmmaking (Motion Capture, Digital Double, Digital Asset Management), 
           and AI-Generated Content (AIGC) in Digital Art. 
-
-          <br><br>
-          In 2024, I was selected into the Young Elite Scientist Sponsorship Program by BAST, 
-          working under the supervision of [**Prof. Wenwu Zhu**](https://www.cs.tsinghua.edu.cn/csen/info/1306/4336.htm). 
-          In 2019, I obtained my **Ph.D.** in Computer Science and Technology, majoring in Digital Art and Design, 
-          from the School of Computer Science and Technology, Zhejiang University, supervised by [**Prof. Weidong Geng**](https://person.zju.edu.cn/en/capggeng#0). 
 
           <br><br>
           With an **interdisplinary background**, 
@@ -86,33 +77,34 @@ params:
           imageUrl: "Fiona_2024.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Fiona Han
+          imageTitle: Feilin Han
           buttons:
             - name: Profile
               url: profile
             - name: Publications
               url: papers
-            # - name: Test
-            #   url: Template
             - name: Projects
               url: projects
-            # - name: Teaching
-            #   url: courses
-            # - name: News
-            #   url: news/
+            - name: Teaching
+              url: teaching
+            - name: People
+              url: people
 
             
 
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: hanfeilin@bfa.edu.cn
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
         - name: Linkedin
           url: https://sg.linkedin.com/in/fionafffff
+        - name: YouTube
+          url: https://www.youtube.com/@fionahan9994
+        - name: Instagram
+          url: https://www.instagram.com/fionaisgood_/
         
+
 
     assets:
         disableScrollBarStyle: true
@@ -120,7 +112,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Fiona Han"
+      text: "Home"
       icon: favicon.ico
       iconHeight: 18
 
@@ -135,3 +127,4 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
