@@ -8,15 +8,15 @@ lastmod: 2024-07-10
 ## List of Selected Papers
 
 
-<!-- 
+
 **U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**<br>
 Tongtong Feng, Xin Wang, **Feilin Han**, Leping Zhang, Wenwu Zhu$^∗$<br>
-ACM Multimedia 2024<br>
-[Project]()
+ACM Multimedia 2024 (Accepted)<br>
+<!-- [Project]() -->
 
---- -->
+---
 
-**SimUAVs-A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment**<br>
+**U2USim: A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment**<br>
 **Feilin Han**, Leping Zhang, Xin Wang, Ke-Ao Zhao, Ying Zhong, Ziyi Su, Tongtong Feng, Wenwu Zhu$^∗$<br>
 ACM Multimedia 2024 Technical Demos and Videos Track (Accepted)<br>
 [Project](../projects/simuavs/),

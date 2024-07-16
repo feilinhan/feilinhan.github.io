@@ -14,13 +14,13 @@
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/simuavs/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/simulation-platform/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/u2usim/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/uav/</loc>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>U2USim: A UAV Telepresence Simulation Platform | Feilin Han</title>
+<meta name="keywords" content="Simulation Platform, UAV, Multi-agent, Dynamic Environment">
+<meta name="description" content="This paper was accepted by ACM Multimedia 2024 Technical Demos and Videos Track.">
+<meta name="author" content="Feilin Han,&thinsp;Leping Zhang,&thinsp;Xin Wang,&thinsp;et al.">
+<link rel="canonical" href="http://localhost:1313/projects/u2usim/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.261a8e817eb3ad13f20cc0c33e37969be4c5ba5ba6c4f33e79eee399fba8fb77.css" integrity="sha256-JhqOgX6zrRPyDMDDPjeWm&#43;TFulumxPM&#43;ee7jmfuo&#43;3c=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/projects/u2usim/index.xml">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/u2usim/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="U2USim: A UAV Telepresence Simulation Platform" />
+<meta property="og:description" content="This paper was accepted by ACM Multimedia 2024 Technical Demos and Videos Track." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:1313/projects/u2usim/" />
+<meta property="og:image" content="http://localhost:1313/projects/u2usim_cover.png" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/projects/u2usim_cover.png" />
+<meta name="twitter:title" content="U2USim: A UAV Telepresence Simulation Platform"/>
+<meta name="twitter:description" content="This paper was accepted by ACM Multimedia 2024 Technical Demos and Videos Track."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "http://localhost:1313/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "U2USim: A UAV Telepresence Simulation Platform",
+      "item": "http://localhost:1313/projects/u2usim/"
+    }
+  ]
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="list" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Fiona Han">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Fiona Han</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/profile" title="Profile">
+                    <span>Profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main"> 
+<header class="page-header">
+  <h1>
+  </h1>
+</header>
+<div class="post-content"><h2 id="u2usim-a-uav-telepresence-simulation-platform-with-multi-agent-sensing-and-dynamic-environment">U2USim: A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment</h2>
+<h5 id="feilin-han1-leping-zhang1-xin-wang2-ke-ao-zhao1brying-zhong1-ziyi-su1-tongtong-feng2-wenwu-zhu2">Feilin Han$^1$, Leping Zhang$^1$, Xin Wang$^2$, Ke-Ao Zhao$^1$,<br>Ying Zhong$^1$, Ziyi Su$^1$, Tongtong Feng$^2$, Wenwu Zhu$^2$$^∗$</h5>
+<h4 id="1-department-of-film-and-tv-technology-beijing-film-academybr2-department-of-computer-science-and-technology-tsinghua-university">$^1$ Department of Film and TV Technology, Beijing Film Academy<br>$^2$ Department of Computer Science and Technology, Tsinghua University</h4>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<div style="text-align: justify;">
+Unmanned Aerial Vehicles (UAVs) are necessary across diverse domains, including disaster surveillance and wildlife conservation. However, the development and evaluation of UAV-related algorithms often encounter a significant hurdle: the scarcity of authentic training data. In this paper, we introduce U2USim, a telepresence simulation platform with a dynamic environment, serving as a realistic synthetic data generation, performance evaluation, and visualization tool for UAV-to-UAV (U2U) cooperative learning. This paper presents the architecture, features, and capabilities of U2USim. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
+</div>
+<p><img loading="lazy" src="teaser.png" alt=""  />
+</p>
+<center>
+Figure 1. The showcase of multi-agents and dynamic environment in U2USim.
+</center>
+<br>
+<div style="text-align: justify;">
+U2USim is a telepresence simulation platform for UAV synthetic data generation. This system provides multiple agents and multi-modal sensors for manipulation, with dynamic real-world weather and environment conditions for emulation. Depending on the scope of the simulation, U2USim is integrated with multiple sensor plugins and extensions, shown in Figure 2, to implement perception sensors, a UAV control module, a dynamic weather module, and 3D scene construction.
+</div>
+<p><img loading="lazy" src="framework.png" alt=""  />
+</p>
+<center>
+Figure 2. The framework of U2USim
+</center>
+<br>
+<div style="text-align: justify;">
+The simulation environment is based on the physical computation and image rendering process of the Unreal Engine, and the construction of the simulation scene is completed through model files output by external DCC software such as FBX or OBJ. SimUAV, as an independent plugin of UE, can obtain rendering information, the position of drones, sensor data, and commands in real time. 
+</div>
+<br>
+<div style="text-align: justify;">
+The synthetic system can export metadata files and image sequences, with a maximum frame rate of 60 fps, and communicate with a server for data processing, learning, and management timely. The HUD (Head-Up Display) interface, shown in Figure 3, which is designed for monitoring and data visualization.
+</div>
+<p><img loading="lazy" src="HUD.png" alt=""  />
+</p>
+<center>
+Figure 3. The Head-Up Display interface of U2USim
+</center>
+<br>
+<div style="text-align: justify;">
+U2USim is designed to support the research and development of UAVs, enhancing the realism and effectiveness of simulations. This platform not only facilitates the generation of realistic synthetic data but also provides a comprehensive tool for evaluation and visualization in multi-agent learning. In the future, additional plugins and extensions will be integrated into this framework as needed. We would like to develop FPGA-based hardware-in-the-loop simulations for real-time virtual-reality-fusion systems. 
+</div>
+<hr>
+<!-- 
+##### Citation
+
+Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+
+```BibTeX
+@article{UI13,
+author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
+year = {2013},
+title ={Unusual Uses For Olive Oil},
+journal = {Journal of Oleic Science},
+volume = {34},
+number = {1},
+pages = {449--489},
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+```
+
+ -->
+<h5 id="acknowledgment">ACKNOWLEDGMENT</h5>
+<p>This work was supported by Beijing National Research Center Open Research Project.</p>
+<h5 id="related-material">Related material</h5>
+<!-- + [Paper](paper1.pdf) -->
+<ul>
+<li><a href="https://youtu.be/G_fpFyRQBt0" target="_blank">Video</a>
+</li>
+</ul>
+<!-- + [Code and data](https://github.com/pmichaillat/u-star) -->
+<hr>
+
+</div>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">Feilin Han</a></span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+</body>
+</html>
