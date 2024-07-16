@@ -1,7 +1,7 @@
 ---
 title: "Teaching" 
-date: 2024-07-16
-lastmod: 2024-07-16
+# date: 2024-07-16
+# lastmod: 2024-07-16
 
 
 ---
@@ -19,7 +19,7 @@ lastmod: 2024-07-16
 
 
 
-+ **3D Real-time Engine**, 112, 5credits
++ **3D Real-time Engine**, 112h, 5credits
 <br>2020 Fall
 <!-- <br><br> -->
 

@@ -1,7 +1,7 @@
 ---
 title: "People" 
-date: 2024-07-16
-lastmod: 2024-07-16
+# date: 2024-07-16
+# lastmod: 2024-07-16
 
 
 ---
