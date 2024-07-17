@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/people/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/dynamic-environment/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/multi-agent/</loc>
@@ -113,5 +107,9 @@
     <loc>http://localhost:1313/work/</loc>
   </url><url>
     <loc>http://localhost:1313/profile/</loc>
+  </url><url>
+    <loc>http://localhost:1313/people/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>

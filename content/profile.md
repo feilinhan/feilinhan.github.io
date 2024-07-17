@@ -20,7 +20,8 @@ Address: No.4, Xitucheng Road, Haidian District, Beijing, China
 <br>
 Email: hanfeilin at bfa.edu.cn
 <br>
-
+<!-- <br><br> -->
+I am looking for <font color=' BE77FF '>**students**</font> (25Fall Master @BFA) and <font color=' BE77FF '>**mentee**</font> (research oriented), who are self-motivated and highly interested in film production, with a background in computer science, digital media, or related major. Please contact me with CV and portfolio.
 
 ### <font color=' BE77FF '> News!!! </font>
 
@@ -44,9 +45,6 @@ and AI-Generated Content (AIGC) in Digital Art.
 In 2024, I was selected into the Young Elite Scientist Sponsorship Program by BAST, under the supervision of [**Prof. Wenwu Zhu**](https://www.cs.tsinghua.edu.cn/csen/info/1306/4336.htm). 
 In 2019, I obtained my **Ph.D.** in Computer Science and Technology, majoring in Digital Art and Design, 
 from the School of Computer Science and Technology, Zhejiang University, supervised by [**Prof. Weidong Geng**](https://person.zju.edu.cn/en/capggeng#0). 
-<br><br>
-I am looking for **students** and **RA**, who are self-motivated and highly interested in film production, with a background in computer science, digital media, or related major.
-<br>Please contact me via email, with your CV and portfolio.
 
 
 ---

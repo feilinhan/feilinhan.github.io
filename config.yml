@@ -58,7 +58,8 @@ params:
     profileMode:
           enabled: true
           title: Han Feilin (韩菲琳)
-          subtitle: "Hi! I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. 
+          subtitle: "
+          Hi! I am a Lecturer (Assistant Professor) in the Department of Film and TV Technology at Beijing Film Academy, China. 
           Currently, I am a visiting scholar at the school of Art, Design and Media, Nanyang Technological University, Singapore, 
           co-working with [**Prof. Benjamin Seide**](http://www.ataribaby.de/).
           I am also a Master's Supervisor in **Digital Film Technology** and **Generative AI in Film Production** at BFA. 
@@ -71,12 +72,14 @@ params:
 
           <br><br>
           With an **interdisplinary background**, 
-          I studies at the School of Theater, Film, and Television, UCLA, in 2011, 
+          I studies at the School of Theater, Film, and Television, **UCLA**, in 2011, 
           worked as a research assistant in the Department of Computer Science at National Tsing Hua University, in 2013,
-          and was a Marie Curie Research Scholar in the National Centre for Computer Animation, UK, in 2016.
+          and was a **Marie Curie Research Scholar** in the National Centre for Computer Animation, UK, in 2016.
 
           <br><br>
           I am a **Researcher**, **Technical Director**, and **Designer**, exploring **immersion** and **perception**."
+
+
 
           imageUrl: "Fiona_2024.jpg"
           imageWidth: 160
@@ -99,8 +102,8 @@ params:
             
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: Email
+          url: hanfeilin@bfa.edu.cn
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=3igxYUQAAAAJ&hl=en&oi=ao
         - name: Linkedin
@@ -109,6 +112,8 @@ params:
           url: https://www.youtube.com/@fionahan9994
         - name: Instagram
           url: https://www.instagram.com/fionaisgood_/
+        - name: CV
+          url: cv.pdf
         
 
 
