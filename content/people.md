@@ -19,6 +19,7 @@ title: "People"
 
 ## Undergraduate Students:
 
++ Class of 2021 <br> **Leping Zhang**
 + Class of 2020 <br> **Ziyi Su**(BUPT), **Yan Zeng**, **Feiyang Bi**, **Tao Jing**
 + Class of 2019 <br> **Xinyi Dai**(UoM)
 + Class of 2018 <br> **Ying Zhong**(BFA), **Ke-Ao Zhao**(BFA), **Minxi Zhou**(UoM), **Huandong Mao**(NetEase)
