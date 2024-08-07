@@ -12,7 +12,7 @@ lastmod: 2024-07-10
 **U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**<br>
 Tongtong Feng, Xin Wang, **Feilin Han**, Leping Zhang, Wenwu Zhu$^∗$<br>
 ACM Multimedia 2024 (Accepted)<br>
-<!-- [Project]() -->
+[Project](https://arxiv.org/html/2408.00606v1)
 
 ---
 
