@@ -65,7 +65,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/icme2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/icme2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Evaluating the Effect of Cinematography on the Viewing Experience in Immersive Environment**
