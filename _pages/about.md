@@ -31,11 +31,6 @@ Her research focuses on **Perceptual Computing**, **Aesthetics Computing**, **Hu
 
 {% include_relative pub.md %}
 
-# 🎖 Honors and Awards
-- *2024.10* ACM MM 2025 Best Paper Nomination 
-- *2024.02* the Beijing Young Elite Scientist Sponsorship Program.
-- *2018.12* Zhejiang University Top Ten Students
-- *2012.11* National Scholarship (Undergraduate) (Top 1%)
 
 # 💻 Work Experiences
 - *2023.11 - 2024.12*, CSC Visiting Scholar, School of Art, Design and Media, Nanyang Technological University, Singapore
@@ -57,3 +52,9 @@ Her research focuses on **Perceptual Computing**, **Aesthetics Computing**, **Hu
 # 💬 Invited Talks
 - *2025.06*, Multimodal Content Understanding and Generation for Intelligent Authoring. Invited by [The 3rd CSIG Conference on Emotional Intelligence](https://www.cei2025.cn/).
 - *2024.07*, How Computer Science Innovates Filmmaking, at College of Computing and Data Science, Nanyang Technological University. Invited by Prof. [Yonggang Wen](https://personal.ntu.edu.sg/ygwen/).
+
+# 🎖 Honors and Awards
+- *2024.10* ACM MM 2025 Best Paper Nomination 
+- *2024.02* the Beijing Young Elite Scientist Sponsorship Program.
+- *2018.12* Zhejiang University Top Ten Students
+- *2012.11* National Scholarship (Undergraduate) (Top 1%)
