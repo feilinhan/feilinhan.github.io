@@ -19,7 +19,7 @@ redirect_from:
 
 Feilin Han (韩菲琳) is an Assistant Professor at [the College of Design and Innovation](https://tjdi.tongji.edu.cn/?lang=), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. She is also a faculty member of the Intelligent Big Data Visualization Lab ([iDVx](https://idvxlab.com/)), collaborating with Prof. [Nan Cao](https://nancao.org/). With an interdisciplinary background in AI and art, she received her Ph.D. in Digital Art and Design from Zhejiang University and worked as a lecturer at Beijing Film Academy before joining Tongji.
 
-Her research focuses on **Perceptual Computing**, **Aesthetics Computing**, **Human-AI Interaction**, and **AIGC** in Design. She has published 10+ papers at international conferences and journals such as ACM MM, CHI, AAAI, and TMM.
+Her research focuses on **Perceptual Computing**, **Human-Computer Interaction**, and **Generative AI** in Design. She has published 10+ papers at international conferences and journals such as ACM MM, CHI, AAAI, and TMM.
 
 韩菲琳为同济大学设计创意学院助理教授。她具有人工智能与艺术设计的交叉背景，博士毕业于浙江大学计算机科学与技术学院数字化艺术与设计专业，加入同济大学前，她曾在北京电影学院工作多年。近年来，她主持了国家社科基金艺术学一般项目、北京市自然科学基金青年项目、北京市教委科技计划、北京信息科学与技术国家研究中心开放课题等多项科研项目，在 ACM MM、 CHI、AAAI、TMM等国际会议和期刊发表论文十余篇。她担任CSIG多媒体专委会副秘书长，CCF多媒体专委会执行委员等学术兼职。
 
