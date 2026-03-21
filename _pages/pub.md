@@ -59,7 +59,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2024, CCF-B)
 
-📄 [Paper](_pages/_files/ICME2024.pdf) 
+📄 [Paper](ICME2024.pdf) 
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2022, CCF-B)
 
-📄 [Paper](_pages/_files/ICME2022.pdf) 
+📄 [Paper](ICME2022.pdf) 
 </div>
 </div>
 
@@ -125,7 +125,7 @@ Tongtong Feng, Xin Wang, **Feiling Han**, Leping Zhang, Wenwu Zhu
 
 ## Other Works
 
-- `ICVRV 2022` **A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production**, **Feilin Han**, Zhaoxu Meng, *2022 IEEE International Conference on Virtual Reality and Visualization*, ***BEST PAPER Award***. 🖥️ [Project](https://arxiv.org/abs/2312.00104)
+- `ICVRV 2022` **A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production**, **Feilin Han**, Zhaoxu Meng, *2022 IEEE International Conference on Virtual Reality and Visualization*, ***BEST PAPER Award***. 📄 [Paper](https://arxiv.org/abs/2312.00104)
 
 - `ACM MM Workshop 2023` **An Analytical Study of Visual Attention Behavior in Viewing Panoramic Video**, **Feilin Han**, Ying Zhong, Ke-Ao Zhao, *ACM Multimedia 2023 International Workshop on Human-centric Multimedia Analysis*. 📄 [Paper](https://dl.acm.org/doi/abs/10.1145/3606041.3618060) 
 
