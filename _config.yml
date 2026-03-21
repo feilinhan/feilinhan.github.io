@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feilin's Homepage"
+title                    : "Feilin Han"
 description              : "Welcome!"
 repository               : "feilinhan/feilinhan.github.io"
 google_scholar_stats_use_cdn : true
