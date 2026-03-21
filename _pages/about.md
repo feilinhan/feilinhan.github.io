@@ -29,7 +29,7 @@ Her research focuses on **Perceptual Computing**, **Aesthetics Computing**, **Hu
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted in TMM!
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted in CHI 2025! 
 
-{% include_relative includes/pub.md %}
+{% include_relative pub.md %}
 
 # 🎖 Honors and Awards
 - *2024.10* ACM MM 2025 Best Paper Nomination 
