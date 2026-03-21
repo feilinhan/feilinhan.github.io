@@ -59,7 +59,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2024, CCF-B)
 
-🖥️ [Project](http://feilin.cn/projects/cybersickness/)  📄 [Paper](_pages/_files/ICME2024.pdf) 
+📄 [Paper](_pages/_files/ICME2024.pdf) 
 </div>
 </div>
 
@@ -74,10 +74,9 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2022, CCF-B)
 
-🖥️ [Project](https://ieeexplore.ieee.org/document/9859864)  📄 [Paper](_pages/_files/ICME2022.pdf) 
+📄 [Paper](_pages/_files/ICME2022.pdf) 
 </div>
 </div>
-
 
 
 ## 🤖 Embodied AI
@@ -91,7 +90,7 @@ Tongtong Feng, Xin Wang, **Feiling Han**, Leping Zhang, Wenwu Zhu
 
 *The 40th Annual AAAI Conference on Artificial Intelligence* (2026, CCF-A)
 
-🖥️ [Project](https://fengtt42.github.io/U2UData-2/)  📄 [Paper](https://fengtt42.github.io/static/files/publications_file/2026-AAAI.pdf)  🤖 [Simulator](https://huggingface.co/datasets/fengtt42/U2USim-2)
+🖥️ [Project](https://fengtt42.github.io/U2UData-2/)  📄 [Paper](https://fengtt42.github.io/static/files/publications_file/2026-AAAI.pdf) 
 </div>
 </div>
 
@@ -119,14 +118,14 @@ Tongtong Feng, Xin Wang, **Feiling Han**, Leping Zhang, Wenwu Zhu
 
 *The 32nd ACM International Conference on Multimedia* (Demo, 2024, CCF-A)
 
-🖥️ [Project](_pages/_projects/u2usim)  📄 [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3684995)  [Video](https://youtu.be/G_fpFyRQBt0)
+🤖 [Simulator](https://huggingface.co/datasets/fengtt42/U2USim-2)  📄 [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3684995)  🎥 [Video](https://youtu.be/G_fpFyRQBt0)
 </div>
 </div>
 
 
 ## Other Works
 
-- `ICVRV 2022` **A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production**, **Feilin Han**, Zhaoxu Meng, *2022 IEEE International Conference on Virtual Reality and Visualization*, ***BEST PAPER Award***. 🖥️ [Project](_pages/_projects/metadata)
+- `ICVRV 2022` **A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production**, **Feilin Han**, Zhaoxu Meng, *2022 IEEE International Conference on Virtual Reality and Visualization*, ***BEST PAPER Award***. 🖥️ [Project](https://arxiv.org/abs/2312.00104)
 
 - `ACM MM Workshop 2023` **An Analytical Study of Visual Attention Behavior in Viewing Panoramic Video**, **Feilin Han**, Ying Zhong, Ke-Ao Zhao, *ACM Multimedia 2023 International Workshop on Human-centric Multimedia Analysis*. 📄 [Paper](https://dl.acm.org/doi/abs/10.1145/3606041.3618060) 
 
