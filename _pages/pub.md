@@ -59,7 +59,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2024, CCF-B)
 
-📄 [Paper](ICME2024.pdf) 
+📄 [Paper](docs/ICME2024.pdf) 
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2022, CCF-B)
 
-📄 [Paper](ICME2022.pdf) 
+📄 [Paper](docs/ICME2022.pdf) 
 </div>
 </div>
 
