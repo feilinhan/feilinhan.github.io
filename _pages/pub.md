@@ -59,7 +59,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo* (2024, CCF-B)
 
-🖥️ [Project](_pages/_projects/cybersickness)  📄 [Paper](_pages/_files/ICME2024.pdf) 
+🖥️ [Project](http://feilin.cn/projects/cybersickness/)  📄 [Paper](_pages/_files/ICME2024.pdf) 
 </div>
 </div>
 
