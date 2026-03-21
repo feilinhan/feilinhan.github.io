@@ -19,7 +19,6 @@ redirect_from:
 
 Hi! I am an Assistant Professor at the College of Design and Innovation, Tongji University, Shanghai. I obtained my PhD from the College of Computer Science and Technology at Zhejiang University, in the major of Digital Art and Design. I am also a faculty member of the Intelligent Big Data Visualization Lab (iDVx), collaborating with Prof. [Nan Cao](https://nancao.org/). My research interests are Human-AI Interaction, Multi-modal Perception, and Aesthetic Computing.
 
-{%<br><br>%}
 Previously, I was a lecturer at Beijing Film Academy and a visiting scholar at the School of Art, Design and Media, Nanyang Technological University, Singapore. As a Marie Curie Fellow, I worked at the National Centre for Computer Animation, UK, from 2016 to 2017. I studied at the School of Theater, Film, and Television, UCLA, in 2011.
           
 
