@@ -50,7 +50,6 @@ Bo Han, Yuheng Li, Yixuan Shen, Yi Ren, and **Feilin Han**
 
 ## 📷 Perceptual Computing
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/icme2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +59,7 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo (2024)*
 
-🖥️ [Project](https://ieeexplore.ieee.org/document/10687394)  📄 [Paper](_files/ICME2024.pdf) 
+🖥️ [Project](https://ieeexplore.ieee.org/document/10687394)  📄 [Paper](_pages/_files/ICME2024.pdf) 
 </div>
 </div>
 
@@ -75,6 +74,6 @@ Ying Zhong, Ke-Ao Zhao, Leping Zhang, Fangming Zhao, Wentao Wei, **Feilin Han**
 
 *IEEE International Conference on Multimedia and Expo (2022)*
 
-🖥️ [Project](https://ieeexplore.ieee.org/document/9859864)  📄 [Paper](_files/ICME2022.pdf) 
+🖥️ [Project](https://ieeexplore.ieee.org/document/9859864)  📄 [Paper](_pages/_files/ICME2022.pdf) 
 </div>
 </div>
