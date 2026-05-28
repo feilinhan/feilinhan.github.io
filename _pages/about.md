@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Feilin Han is an Assistant Professor at [the College of Design and Innovation](https://tjdi.tongji.edu.cn/?lang=), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. She is also a faculty member of the Intelligent Big Data Visualization Lab ([iDVx](https://idvxlab.com/)), and a part-time researcher at Shanghai Innovation Institute, collaborating with Prof. [Nan Cao](https://nancao.org/). With an interdisciplinary background in AI and art, she received her Ph.D. in Digital Art and Design from Zhejiang University and worked as a lecturer at Beijing Film Academy before joining Tongji.
+Feilin Han is an Assistant Professor at [the College of Design and Innovation](https://tjdi.tongji.edu.cn/?lang=), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. She is also a faculty member of the Intelligent Big Data Visualization Lab ([iDVx](https://idvxlab.com/)), and a part-time researcher at [Shanghai Innovation Institute](https://www.sii.edu.cn/main.htm), collaborating with Prof. [Nan Cao](https://nancao.org/). With an interdisciplinary background in AI and art, she received her Ph.D. in Digital Art and Design from Zhejiang University and worked as a lecturer at Beijing Film Academy before joining Tongji.
 
 Her research focuses on **Perceptual Computing**, **Human-Computer Interaction**, and **Generative AI** in Design and Creative Authoring. She has published 10+ papers at international conferences and journals such as ACM MM, CHI, AAAI, and TMM.
 
