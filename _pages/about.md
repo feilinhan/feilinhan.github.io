@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Feilin Han is an Assistant Professor at [the College of Design and Innovation](https://tjdi.tongji.edu.cn/?lang=), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. She is also a faculty member of the Intelligent Big Data Visualization Lab ([iDVx](https://idvxlab.com/)), collaborating with Prof. [Nan Cao](https://nancao.org/). With an interdisciplinary background in AI and art, she received her Ph.D. in Digital Art and Design from Zhejiang University and worked as a lecturer at Beijing Film Academy before joining Tongji.
+Feilin Han is an Assistant Professor at [the College of Design and Innovation](https://tjdi.tongji.edu.cn/?lang=), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. She is also a faculty member of the Intelligent Big Data Visualization Lab ([iDVx](https://idvxlab.com/)), and a part-time researcher at Shanghai Innovation Institute, collaborating with Prof. [Nan Cao](https://nancao.org/). With an interdisciplinary background in AI and art, she received her Ph.D. in Digital Art and Design from Zhejiang University and worked as a lecturer at Beijing Film Academy before joining Tongji.
 
 Her research focuses on **Perceptual Computing**, **Human-Computer Interaction**, and **Generative AI** in Design and Creative Authoring. She has published 10+ papers at international conferences and journals such as ACM MM, CHI, AAAI, and TMM.
 
-韩菲琳，同济大学设计创意学院助理教授。她具有人工智能与艺术设计的交叉背景，博士毕业于浙江大学计算机科学与技术学院数字化艺术与设计专业，曾在北京电影学院工作。研究方向为感知计算、人机交互、生成式人工智能在创意媒体设计中的应用。2024年入选北京市科协青年人才托举工程，近年来，她主持了国家社科基金艺术学一般项目、北京市自然科学基金青年项目、北京市教委科技计划、北京信息科学与技术国家研究中心开放课题等多项科研项目，担任CSIG多媒体专委会副秘书长，CCF多媒体专委会执行委员等学术兼职。
+韩菲琳，同济大学设计创意学院助理教授，上海创智学院兼职导师。她具有人工智能与艺术设计的交叉背景，博士毕业于浙江大学计算机科学与技术学院数字化艺术与设计专业，曾在北京电影学院工作。研究方向为感知计算、人机交互、生成式人工智能在创意媒体设计中的应用。2024年入选北京市科协青年人才托举工程，近年来，她主持了国家社科基金艺术学一般项目、北京市自然科学基金青年项目、北京市教委科技计划、北京信息科学与技术国家研究中心开放课题等多项科研项目，担任CSIG多媒体专委会副秘书长，CCF多媒体专委会执行委员等学术兼职。
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Join the College of Design and Innovation at Tongji University!
